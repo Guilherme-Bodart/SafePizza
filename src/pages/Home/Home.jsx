@@ -24,10 +24,8 @@ const Home = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        // Substitua o caminho do arquivo de acordo com a sua estrutura de pastas
         const response = await axios.get("./server/pizzas.json");
         setPizzas(response.data);
-        // setDados(response.data);
       } catch (error) {
         console.error("Erro ao carregar dados:", error);
       }
