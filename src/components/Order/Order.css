@@ -1,0 +1,48 @@
+.order {
+  display: flex;
+}
+
+.image-order {
+  height: 73px;
+  border-radius: 16px;
+}
+
+.informations-order {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 8px;
+  gap: 8px;
+}
+
+.order-pizza-name {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.order-pizza-price {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.order-descount {
+  position: absolute;
+  width: 60px;
+  right: -12px;
+  top: -16px;
+}
+
+.order-price-descount {
+  text-decoration: line-through;
+  font-size: 14px;
+}
+.order-pizza-quantity {
+}
+
+.order-buttons {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}

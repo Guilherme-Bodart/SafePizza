@@ -1,0 +1,34 @@
+.navbar {
+  height: 200px;
+  justify-content: space-around !important;
+}
+
+.logo {
+  height: 150px;
+}
+
+.cart {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+}
+
+.circle-number {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #d9690d;
+  right: -4px;
+  bottom: 24px;
+  font-size: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  cursor: pointer;
+}
+
+.icon-cart{
+  cursor: pointer;
+}

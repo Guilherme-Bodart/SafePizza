@@ -1,0 +1,16 @@
+.list-pizza {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  padding: 24px;
+}
+
+.order-pizza {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.modal-footer {
+  justify-content: space-between !important;
+}

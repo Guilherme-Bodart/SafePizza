@@ -1,0 +1,50 @@
+.card {
+  width: calc(20% - 24px);
+}
+
+.image-pizza {
+  border-radius: 4px 4px 0px 0px;
+  min-height: 200px;
+  width: 100%;
+}
+
+.informations {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  padding: 8px;
+  gap: 4px;
+  height: 100%;
+}
+
+.ingredients {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.pizza-name {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.pizza-price {
+  font-weight: 600;
+  font-size: 21px;
+}
+
+.pizza-ingredient {
+  text-transform: capitalize;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.descount {
+  position: absolute;
+  width: 100px;
+  right: 0;
+  bottom: 115px;
+}
+
+.price-descount {
+  text-decoration: line-through;
+}
