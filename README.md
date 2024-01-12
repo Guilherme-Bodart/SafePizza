@@ -1,3 +1,20 @@
+# Experiência
+Falar o que eu usei primeiramente, pra deixar mais simples utilizei React Bootstrap para alguns componentes, desde o início, usei React Toastify pra notificação da finalização do Pedido
+e usei Axios para fazer as chamadas dos arquivos .JSON;
+
+No arquivo pede pra usar Ajax, não sei se isso vai ser um problema, eu tentei inicialmente com AJAX, mas tive alguns problemas, que também acontecem no Axios, até perceber que era um
+problema de onde eu coloquei os arquivos .JSON, deveriam estar na pasta 'public', depois que coloquei lá o Axios funcionou, acredito que o AJAX também funcionaria, mas não testei pelo tempo, e deixei com o Axios, eu até prefiro por já está acostumado a usar anteriormente.
+
+Eu sempre crio projetos utilizando Redux, desde que aprendi a usar Redux, nesse caso eu queria tentar não usar uma biblioteca de estados, quis usar apenas a passagem de dados entre Pai
+e Filho do React, por também ser um projeto mais simples, fui por esse lado pra dificultar um pouco meu lado, e não ter variáveis que possa reutilizar em todos os componentes sem pensar se estão sendo atualizadas corretamente.
+
+A outra coisa é como montei os arquivos, separei em Assets, Components e Pages, que é o que gosto de fazer, deixei a parte do Home com a maior parte da lógica, e nos componentes apenas 
+mostrando o que é passado para eles. Tem alguns arquivos a mais que acabei não deletando que já vem no create-app.
+
+No geral foi um bom desafio, que estou a um tempo usando apenas Angular no dia a dia, é bom pegar projetos em React pra relembrar de como é, que é bem diferente.
+
+Abaixo tem como inicializar o projeto, já vem pronto do create-app, mas é: Clonar o repositório -> instalar as dependências com 'npm install' -> Inicializar o Projeto com 'npm start'.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
