@@ -13,7 +13,8 @@ mostrando o que é passado para eles. Tem alguns arquivos a mais que acabei não
 
 No geral foi um bom desafio, que estou a um tempo usando apenas Angular no dia a dia, é bom pegar projetos em React pra relembrar de como é, que é bem diferente.
 
-Abaixo tem como inicializar o projeto, já vem pronto do create-app, mas é: Clonar o repositório  ->  instalar as dependências com 'npm install'  ->  Inicializar o Projeto com 'npm start'.
+Abaixo tem como inicializar o projeto, já vem pronto do create-app, mas é: 
+Clonar o repositório  ->  instalar as dependências com 'npm install'  ->  Inicializar o Projeto com 'npm start'.
 
 # Getting Started with Create React App
 
