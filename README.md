@@ -9,7 +9,7 @@ Eu sempre crio projetos utilizando Redux, desde que aprendi a usar Redux, nesse 
 e Filho do React, por também ser um projeto mais simples, fui por esse lado pra dificultar um pouco meu lado, e não ter variáveis que possa reutilizar em todos os componentes sem pensar se estão sendo atualizadas corretamente.
 
 A outra coisa é como montei os arquivos, separei em Assets, Components e Pages, que é o que gosto de fazer, deixei a parte do Home com a maior parte da lógica, e nos componentes apenas 
-mostrando o que é passado para eles. Tem alguns arquivos a mais que acabei não deletando que já vem no create-app.
+mostrando o que é passado para eles. Tem alguns arquivos a mais que acabei não deletando que já vem no create-app, e a parte do Desconto, eu fiz um random pra um deles ter desconto, altera sempre que atualiza a página, simples, mas consigo refletir no resto do projeto.
 
 No geral foi um bom desafio, que estou a um tempo usando apenas Angular no dia a dia, é bom pegar projetos em React pra relembrar de como é, que é bem diferente.
 
